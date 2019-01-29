@@ -1,0 +1,12 @@
+Kristina Scenes:
+
+Scene 1:
+5 men vs 1 man				OR 	5 women vs 1 woman
+Scene 2:	
+Old vs normal				OR 	Old vs youngScene 3:5 men vs 5 women / 1 man vs 1 woman (same table in DB)Scene 4:
+1 Pregnant woman vs 1 woman		OR 	1 Pregnant woman vs 1 manScene 5:1 pregnant woman vs 1 kid		OR 	1 pregnant woman vs old 
+
+
+Jenny Scenes:
+
+Normal vs young		OR 	Dog vs HumanCar vs 5 men		OR 	Car vs 5 womenCar vs young		OR 	Car vs oldCar vs pregnant woman	OR	Car vs dogCar vs 1 man		OR 	Car vs 1 woman

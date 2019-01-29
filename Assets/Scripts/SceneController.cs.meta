@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a53692e840ea70d4cada0ad3bd651aad
+timeCreated: 1482173501
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - left: {instanceID: 0}
+  - right: {instanceID: 0}
+  - boy: {fileID: 1000010574279856, guid: a6a8161488d46454cb5c46068893c1ed, type: 2}
+  - girl: {fileID: 1000013338206668, guid: fe54c4934d0d2a640b318547f7151395, type: 2}
+  - man: {fileID: 1000011058920654, guid: 237b84f3c7d21f2488f27af0f5cc0462, type: 2}
+  - woman: {fileID: 1000014229303134, guid: 13366a0c2da3da94ea699a4fe339f2ba, type: 2}
+  - old_man: {fileID: 1000011074103514, guid: 5f0e13855ea74b64ebba3d476482bae3, type: 2}
+  - old_woman: {fileID: 1000011920837314, guid: ccfa4e68d6b9d3f48b5b73b4664fc7e7,
+      type: 2}
+  - dog: {fileID: 1000011682710534, guid: 75b3b2c03bea8e54b9b27c610bdea603, type: 2}
+  - pregnant: {fileID: 1000013758609070, guid: ad808c5e8ba13844aace3def5633fbb4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

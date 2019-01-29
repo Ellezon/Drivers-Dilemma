@@ -1,0 +1,11 @@
+1 = Zebra Crossing (traffic lights red)
+2 = Traffic Lights Red (no zebra crossing) - junction and cars are passing (cos their light is green) 
+3 = Concrete slabs
+4 = Oil
+5 = Crossroad - Red light runner
+
+6 = Traffic Lights Green (zebra crossing) - person crossing
+7 = Lampost 
+8 = Someone randomly jumps out (no zebra crossing)
+9 = Car blocking road (stopped at the side)
+10 = Car blocks road (head-on wrong way)

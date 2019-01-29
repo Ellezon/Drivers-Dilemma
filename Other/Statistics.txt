@@ -1,0 +1,9 @@
+1) Saving more lives
+2) Upholding the law
+3) gender preference
+4) Species preference 
+5) Age preference 
+6) Most killed 
+7) Most saved 
+8) Time to make decision - for each case 
+9) Decision based on nationality

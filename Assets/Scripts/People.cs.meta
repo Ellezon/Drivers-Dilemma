@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2f79cb66be935854e947e8fb193e3609
+timeCreated: 1481820928
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - female_scream: {fileID: 8300000, guid: b7cff1a916babab479676340bef9a4e1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

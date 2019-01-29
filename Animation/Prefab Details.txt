@@ -1,0 +1,11 @@
+Set Animations in Model
+
+Add Box Colliders to each part
+
+Add Rigidbody to Body
+
+Add HingeJoints->Body to Arms/Feet
+
+Add Box Collider to GameObject with copied values
+
+Add People Script
